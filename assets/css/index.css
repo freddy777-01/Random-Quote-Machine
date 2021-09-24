@@ -52,7 +52,7 @@ main #author{
 
 main #quote-box #new-quote {
     position: absolute;
-    background: #e7e6e6;
+    background-color: #e7e6e6;
     bottom: 0px;
     right: 0px;
     margin: 20px;
@@ -65,8 +65,8 @@ main #quote-box #new-quote {
     cursor: pointer;
     transition: background .2s ease-in;
 }
-#new-quote:hover{
-    background: #a1a1a1;
+main #new-quote:hover{
+    background-color: #8d8d8d;
 }
 main #tweet-quote{
     position: absolute;
